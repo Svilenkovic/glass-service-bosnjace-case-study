@@ -15,7 +15,7 @@ Site for an auto glass shop near Leskovac: a five-step online quote instead of a
   <tr><td><b>Location</b></td><td>Bošnjace, Leskovac, Serbia</td></tr>
   <tr><td><b>Type</b></td><td>Multi-page website</td></tr>
   <tr><td><b>My role</b></td><td>Design, development, SEO, hosting and maintenance</td></tr>
-  <tr><td><b>Stack</b></td><td>PHP 8.3, nginx, MariaDB, PHPMailer</td></tr>
+  <tr><td><b>Stack</b></td><td>PHP 8.3, nginx, PHPMailer</td></tr>
 </table>
 
 ## About the project

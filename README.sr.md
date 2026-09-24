@@ -15,7 +15,7 @@ Sajt auto-staklarske radnje kod Leskovca: online ponuda u pet koraka umesto ceno
   <tr><td><b>Lokacija</b></td><td>Bošnjace, Leskovac</td></tr>
   <tr><td><b>Vrsta</b></td><td>Sajt sa više strana</td></tr>
   <tr><td><b>Moj deo posla</b></td><td>Dizajn, izrada, SEO, hosting i održavanje</td></tr>
-  <tr><td><b>Tehnologije</b></td><td>PHP 8.3, nginx, MariaDB, PHPMailer</td></tr>
+  <tr><td><b>Tehnologije</b></td><td>PHP 8.3, nginx, PHPMailer</td></tr>
 </table>
 
 ## O projektu

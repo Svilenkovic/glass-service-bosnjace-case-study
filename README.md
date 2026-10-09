@@ -4,7 +4,7 @@
 
 Site for an auto glass shop near Leskovac: a five-step online quote instead of a price list, pages for the towns it covers and insurance explained plainly.
 
-**[glassbosnjace.rs](https://glassbosnjace.rs/)** · [Case study (in Serbian)](https://svilenkovic.com/radovi/glass-service-bosnjace) · [Srpski](README.sr.md)
+**[glassbosnjace.rs](https://glassbosnjace.rs/)** · [Case study (in Serbian)](https://svilenkovic.rs/radovi/glass-service-bosnjace) · [Srpski](README.sr.md)
 
 > [!NOTE]
 > Client project. The source code belongs to the client and stays in a private repository. This page describes what I built and how.
@@ -37,10 +37,10 @@ A price list would have been wrong, because the price depends on the exact glass
 
 | | Performance | Accessibility | Best practices | SEO |
 | :-- | :-: | :-: | :-: | :-: |
-| Mobile | 86 | 100 | 100 | 100 |
-| Desktop | 97 | 100 | 100 | 100 |
+| Mobile | 99 | 100 | 100 | 100 |
+| Desktop | 100 | 100 | 100 | 100 |
 
-PageSpeed Insights, lab test of the live site, September 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `AutoRepair`.
+PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `AutoRepair`.
 
 ## Screenshots
 
